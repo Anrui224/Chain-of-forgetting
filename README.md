@@ -1,13 +1,5 @@
-# Chain-of-forgetting
-![Gradient Parameter Alignment](grad_param/fig1.png)
-![Gradient Parameter Alignment](grad_param/fig2.png)
-![Gradient Parameter Alignment](grad_param/fig3.png)
-![Gradient Parameter Alignment](grad_param/fig4.png)
-![Gradient Parameter Alignment](grad_param/fig5.png)
-![Gradient Parameter Alignment](grad_param/fig6.png)
-![Gradient Parameter Alignment](grad_param/fig7.png)
-![Gradient Parameter Alignment](grad_param/fig8.png)
-![Gradient Parameter Alignment](grad_param/fig9.png)
-![Gradient Parameter Alignment](grad_param/fig10.png)
+## Figure a. Cumulative projection scores of OGD-GTL gradients onto the parameter singular vectors. The projections are concentrated on top singular directions.
+<img src="grad_param.png" width=800 align = “left”>
 
-![No Orthogonal Constraint](no_ortho.png)
+## Figure b. Loss increase on old data samples progressively decreases as more replay data are added, in the absence of orthogonal gradient constraints.
+<img src="no_ortho.png" width=800 align = “left”>
