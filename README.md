@@ -2,4 +2,4 @@
 <img src="grad_param.png" width=800 align = “left”>
 
 ## Figure b. Loss increase on old data samples progressively decreases as more replay data are added, in the absence of orthogonal gradient constraints.
-<img src="no_ortho.png" width=800 align = “left”>
+<img src="no_ortho.png" width=500 align = “left”>
